@@ -283,13 +283,4 @@ Customer segmentation
 
 Personalized financial services
 
-👨‍💻 Author
-
-Your Name
-
-Python | Machine Learning | Data Science
-
-📜 License
-
-This project is developed for educational and learning purposes.
 
